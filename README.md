@@ -101,6 +101,7 @@ _Apps that showcase the power of the Frappe Framework_
 - [POS-Awesome-V15](https://github.com/defendicon/POS-Awesome-V15) - the enhance version with more bugs fixed and multiple currency add thanks to @defendicon
 - [POSNext](https://github.com/BrainWise-DEV/POSNext.git) - POSNext is a modern, open-source Point of Sale for ERPNext, offering fast billing, multiple payment methods, smart discounts, offline mode, and a clean touchscreen-friendly UI—built to handle real retail operations with speed and reliability.
 - [TailPOS](https://github.com/bailabs/tailpos) - Offline First Open Source POS for ERPNext.
+- [X POS](https://github.com/kodlyft/xpos.git) - X POS is a feature-rich, offline-first Point of Sale application built on Frappe and ERPNext. It delivers a fast, keyboard-driven, and fully offline-capable POS experience for retail, hospitality, and service businesses — deployable as a web app, PWA, or Electron desktop application.
 
 #### Utility Apps
 
