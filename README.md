@@ -317,6 +317,7 @@ It is built for teams that already use ERPNext and want a practical assistant in
 - [Lost Doctype](https://github.com/rareMaxim/lost_doctype) - A Frappe app that maps your site structure and finds DocTypes that are not accessible through the UI.
 - [Nano Press](https://github.com/BuildWithHussain/nano_press) - Nano Press automates your Frappe/ERPNext deployment from zero to production.
 - [Semgrep Rules](https://github.com/frappe/semgrep-rules) - Semgrep Rules for following the best practices while building your Frappe Apps.
+- [Tally Prime ERPNext Migrator](https://github.com/manikantadm09/tally-prime-erpnext-migrator) - An auditable migration tool for moving accounting masters and vouchers from Tally Prime into ERPNext through Tally's local XML gateway and the ERPNext REST API
 - [TypeScript Type generator](https://github.com/The-Commit-Company/frappe-types) - Typescript type definition generator for Frappe DocTypes.
 
 #### SDKs & Libraries
