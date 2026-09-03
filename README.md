@@ -415,10 +415,8 @@ _Hosted services that run Frappe for you, or self-hostable platforms you can run
 - [Frappe Cloud](https://cloud.frappe.io/dashboard/signup?referrer=a6d8da54) - Managed hosting platform for Frappe Apps.
 
 #### Self-hosted Platforms
-- [Erpnext Quick Install](https://github.com/flexcomng/erpnext_quick_install) - Unattended script for ERPNext installation (Supports Versions 13, 14, 15, 16, and Develop) for Ubuntu & Debian
-
-This is a comprehensive, interactive script for installing ERPNext Versions 13, 14, 15, 16, and the develop branch. You can set up either development or production environments with enhanced features including intelligent additional apps installation, comprehensive logging, and smart branch detection.
 
 - [BenchPress](https://github.com/Venkateshvenki404224/benchpress_devops) - Self-hosted Frappe Cloud alternative with Docker-based bench environments, WireGuard VPN, live build logs, and a Vue 3 dashboard.
+- [ERPNext Quick Install](https://github.com/flexcomng/erpnext_quick_install) - Unattended script for ERPNext installation (Supports Versions 13, 14, 15, 16, and Develop) for Ubuntu & Debian.
 - [Nethserver](https://github.com/geniusdynamics/ns8-erp-next) - @geniusdynamics's configuration for NS8 with backup/restore, server to server node migration, Ldap & Active directory integration and more. [[read more here](https://community.nethserver.org/t/erpnext-the-most-agile-erp-on-the-planet-in-ns8/24240)]
 - [Press](https://github.com/frappe/press) - Full service cloud hosting for the Frappe stack - powers Frappe Cloud
