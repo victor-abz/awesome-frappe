@@ -323,6 +323,7 @@ It is built for teams that already use ERPNext and want a practical assistant in
 
 #### SDKs & Libraries
 
+- [Frapkit](https://www.npmjs.com/settings/frapkit/packages) - React components and headless hooks for Frappe — meta-driven forms, lists, workflows, permissions, and auth, powered entirely by Frappe's existing whitelisted API. Zero backend customization required.
 - [Frappe JS SDK](https://github.com/nikkothari22/frappe-js-sdk) - TypeScript/JavaScript library for Frappe REST API
 - [Frappe React SDK SDK](https://github.com/nikkothari22/frappe-react-sdk) -  React hooks for Frappe
 - [Frappe Straw](https://github.com/ssiyad/frappe-straw) - Developer focused React/TypeScript hooks and utilities for Frappe.
