@@ -147,6 +147,7 @@ _Apps that showcase the power of the Frappe Framework_
 - [changAI](https://github.com/ERPGulf/changAI) - AI-powered assistant for ERPNext that lets users ask business questions in plain English and get instant answers.
 - [ERPNext Copilot](https://github.com/byt3crafter/erpnext-copilot) - AI-powered assistant for ERPNext that lets users query data, perform actions, generate charts, and schedule reports in plain English.
 - [Frappe Flow](https://github.com/frappe/flow) - Flow puts an AI assistant inside your Frappe site. It knows your DocTypes, respects your permissions, and can operate your site in plain English — creating records, sending emails, building DocTypes, creating agents and tools, and setting up RAG chatbots.
+- [Jarvis](https://github.com/aerele/jarvis) - An AI teammate inside ERPNext. Ask about your business data in plain English, automate document processing with a human in the loop and save your team's best practices as reusable skills. It runs under each user's own permissions and can connect to your existing AI chat subscription.
 - [Kai](https://github.com/KorucuTech/kai) - Custom Frappe App to integrate AI Agents as DocTypes using CrewAI & Frappe Framework.
 - [NextAssist](https://github.com/navdeepghai/nextassist) - AI-powered chat assistant for Frappe/ERPNext with multi-provider support (OpenAI, Claude, Gemini), streaming responses, and a secure RestrictedPython sandbox.
 - [Photos](https://github.com/gavindsouza/photos) - AI powered Image classification & labelling similar to Google Photos in Desk.
